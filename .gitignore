@@ -1,0 +1,15 @@
+node_modules
+common/lib
+lambda/.webpack
+
+# Optional package-lock.json file
+package-lock.json
+
+# Output of 'npm pack'
+*.tgz
+
+.nyc_output
+coverage
+
+# dotenv environment variables file
+.env
